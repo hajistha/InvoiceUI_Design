@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Invoice UI Design\Invoice UI Design\bin\Debug\Invoice UI Design.exe.config
+C:\Users\DELL\source\repos\Invoice UI Design\Invoice UI Design\bin\Debug\Invoice UI Design.exe
+C:\Users\DELL\source\repos\Invoice UI Design\Invoice UI Design\bin\Debug\Invoice UI Design.pdb
+C:\Users\DELL\source\repos\Invoice UI Design\Invoice UI Design\obj\Debug\Invoice UI Design.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Invoice UI Design\Invoice UI Design\obj\Debug\Invoice_UI_Design.Form1.resources
+C:\Users\DELL\source\repos\Invoice UI Design\Invoice UI Design\obj\Debug\Invoice_UI_Design.Properties.Resources.resources
+C:\Users\DELL\source\repos\Invoice UI Design\Invoice UI Design\obj\Debug\Invoice UI Design.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Invoice UI Design\Invoice UI Design\obj\Debug\Invoice UI Design.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Invoice UI Design\Invoice UI Design\obj\Debug\Invoice UI Design.exe
+C:\Users\DELL\source\repos\Invoice UI Design\Invoice UI Design\obj\Debug\Invoice UI Design.pdb
